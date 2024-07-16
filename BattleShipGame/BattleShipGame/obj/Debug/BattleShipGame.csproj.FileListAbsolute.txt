@@ -1,0 +1,10 @@
+C:\Users\elk-stajyerit\source\repos\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.csproj.AssemblyReference.cache
+C:\Users\elk-stajyerit\source\repos\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.Form1.resources
+C:\Users\elk-stajyerit\source\repos\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.Properties.Resources.resources
+C:\Users\elk-stajyerit\source\repos\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.csproj.GenerateResource.cache
+C:\Users\elk-stajyerit\source\repos\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.csproj.CoreCompileInputs.cache
+C:\Users\elk-stajyerit\source\repos\BattleShipGame\BattleShipGame\bin\Debug\BattleShipGame.exe.config
+C:\Users\elk-stajyerit\source\repos\BattleShipGame\BattleShipGame\bin\Debug\BattleShipGame.exe
+C:\Users\elk-stajyerit\source\repos\BattleShipGame\BattleShipGame\bin\Debug\BattleShipGame.pdb
+C:\Users\elk-stajyerit\source\repos\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.exe
+C:\Users\elk-stajyerit\source\repos\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.pdb
